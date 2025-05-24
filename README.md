@@ -35,8 +35,6 @@ O gerenciamento eficaz de **recursos de armazenamento** no Azure inclui:
 - Calculadora de TCO (Total Cost of Ownership) → Compara custos de infraestrutura local e nuvem.
 - Instâncias Reservadas → Redução de custos ao se comprometer com serviços por períodos de **1 ou 3 anos**.
 
-## 🔗 Link do Repositório
-[Adicionar link do repositório GitHub aqui]
 
 ## 🎯 Conclusão
 Este laboratório consolidou o conhecimento sobre **armazenamento na nuvem**, aprimorando práticas de **governança, custos e segurança** no Azure. Os conceitos aprendidos permitem a criação de soluções eficientes e escaláveis para diferentes necessidades empresariais.
